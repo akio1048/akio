@@ -1,0 +1,14 @@
+h1{
+  text-align: center;
+  padding: 5px;
+  font-size: 45px;
+}
+div{
+  background-color: #00ffff;
+  margin: 0px 150px 0px 150px;
+  border-radius: 90px;
+  border: double 20px #8bacd9;
+}
+body{
+  background-color: #fffafa;
+}
